@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+94h5og7p_xsf+ifjif5xltpxbqdul^k(f1v&2tgsnp@0h&kqb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'postanything.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'postanything-1.herokuapp.com']
 
 
 INSTALLED_APPS = [
